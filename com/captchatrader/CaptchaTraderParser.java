@@ -32,6 +32,9 @@ import org.w3c.dom.Node;
 import org.w3c.dom.Element;
 import java.io.File;
 
+/**
+ * @version 2012.1
+ */
 enum XmlTag {
 	ERROR ("error"),
 		STATUS ("status"),

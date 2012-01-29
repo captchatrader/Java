@@ -25,6 +25,9 @@
 package com.captchatrader;
 
 
+/**
+ * @version 2012.1
+ */
 public enum CaptchaTraderRequestType
 {
 	SUBMIT           ("http://api.captchatrader.com/submit",        true,  2),

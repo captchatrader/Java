@@ -37,6 +37,9 @@ import java.io.FileOutputStream;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+/**
+ * @version 2012.1
+ */
 class CaptchaTraderRequest
 {
 	private URLConnection _urlConnection;
